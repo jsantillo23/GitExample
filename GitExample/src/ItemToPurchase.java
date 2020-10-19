@@ -1,3 +1,9 @@
+/**
+ * 
+ * @author Joey Santillo CIT 591 Fall 2020
+ *
+ */
+
 
 public class ItemToPurchase {
     
